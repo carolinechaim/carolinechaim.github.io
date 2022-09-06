@@ -1,0 +1,12 @@
+site_name: Software Design Server
+
+nav:
+    - Home: index.md
+    - Student : student.md
+    - Teacher : teacher.md
+    - Development: dev.md
+    
+
+theme:
+    name: readthedocs
+    nav_style: dark
