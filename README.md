@@ -7,4 +7,4 @@ For teacher information
 /teacher
 
 For developer information
-/developer
+/dev
